@@ -1,0 +1,21 @@
+h1 {
+  padding: 4%;
+  margin-top: -10px;
+  box-shadow: 0 1px 3px LightGray;
+}
+
+h2 {
+text-align: center;
+background-color: #8FBC8F;
+padding: 1%;
+margin-top: -10px;
+box-shadow: 0 1px 3px LightGray;
+}
+
+h3 {
+text-align: center;
+}
+
+body {
+  background-color: #F8F8FF;
+}
