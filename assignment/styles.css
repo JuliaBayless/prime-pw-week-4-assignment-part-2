@@ -1,14 +1,18 @@
 h1 {
+  font-family: sans-serif;
+  color: #DB7093;
   padding: 4%;
   margin-top: -10px;
   box-shadow: 0 1px 3px LightGray;
 }
 
 h2 {
+font-family: Lucinda;
 text-align: center;
+color: #2F4F4F;
 background-color: #8FBC8F;
 padding: 2%;
-
+margin-top: -.5px;
 box-shadow: 0 1px 3px LightGray;
 }
 
@@ -20,8 +24,13 @@ img {
 }
 
 h3 {
-text-align: center;
-}
+  font-family: Lucinda console;
+  text-align: center;
+  color: #2F4F4F;
+  background-color: #8FBC8F;
+  padding: 1%;
+  box-shadow: 0 1px 3px LightGray;
+  }
 
 .boxed {
   border: 1px solid green ;
