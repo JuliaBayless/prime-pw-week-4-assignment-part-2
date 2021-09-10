@@ -12,9 +12,17 @@ margin-top: -10px;
 box-shadow: 0 1px 3px LightGray;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid #FADADD;
+}
+
 h3 {
 text-align: center;
 }
+
 
 body {
   background-color: #F8F8FF;
